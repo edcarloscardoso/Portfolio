@@ -1,8 +1,13 @@
-# **Seu Nome**  
+# **Edcarlos Cardôso de Farias**  
 💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-00BFFF?style=for-the-badge)](https://seu-site.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edcarlos-card%C3%B4so-de-farias-2240b1a7/) 
+[![Portfólio](https://img.shields.io/badge/Portfólio-00BFFF?style=for-the-badge)](https://seu-site.com) 
+
+## 📞 Contato  
+📧 **Email:** edcarlos.cfarias@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/edcarlos-card%C3%B4so-de-farias-2240b1a7/)  
+🚀 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuari)  
 
 ---
 
@@ -53,10 +58,3 @@ Breve descrição sobre você. Fale sobre sua trajetória, interesses e objetivo
 🔹 Auxílio na criação de dashboards e automação de tarefas com Python.  
 🔹 Manutenção e refatoração de código legado.  
 
----
-
-## 📞 Contato  
-📧 **Email:** seuemail@email.com  
-🌍 **Portfólio:** [seu-site.com](https://seu-site.com)  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-🚀 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)  
