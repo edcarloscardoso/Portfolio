@@ -22,7 +22,7 @@ Breve descrição sobre você. Fale sobre sua trajetória, interesses e objetivo
 🎯 **Linguagens:** JavaScript, Python, C#  
 📚 **Curso Técnico:** Desenvolvimento de Sistemas | Senai (2023 - 2025)  
 📖 **Cursos Livres:**  
-- Desenvolvimento Web Full Stack - [Rocketseat](https://www.rocketseat.com.br/)  
+- Engenharia de Dados com Python - [DIO](https://www.dio.me/certificate/YL5MEBUY/share)  
 - Algoritmos e Estruturas de Dados - [Alura](https://www.alura.com.br/)  
 - Fundamentos de Cloud Computing - [DIO](https://www.dio.me/)  
 
