@@ -1,5 +1,5 @@
 # **Edcarlos Cardôso de Farias**  
-💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia  
+💻 Analista de Dados | 🚀 Entusiasta de Tecnologia  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edcarlos12) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edcarlos-card%C3%B4so-de-farias-2240b1a7/) 
 [![Portfólio](https://img.shields.io/badge/Portfólio-00BFFF?style=for-the-badge)](https://seu-site.com) 
