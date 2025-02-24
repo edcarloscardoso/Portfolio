@@ -14,7 +14,14 @@
 ---
 
 ## 🚀 Sobre mim  
-Breve descrição sobre você. Fale sobre sua trajetória, interesses e objetivos na área de tecnologia.  
+Com experiência nas áreas de meio ambiente, administração e garantia da qualidade, desenvolvi habilidades analíticas, organizacionais e de resolução de problemas, que agora aplico na minha transição para a área de tecnologia. Sempre fui apaixonado por inovação e tecnologia, o que me levou a aprofundar meus estudos em desenvolvimento de software, análise de dados e ferramentas digitais.
+
+Meu inglês intermediário tem sido um grande aliado nesse processo, permitindo que eu consuma conteúdos técnicos diretamente da fonte, participe de comunidades internacionais e esteja sempre atualizado com as últimas tendências do setor.
+
+Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvolvendo projetos práticos para consolidar meus conhecimentos. Busco oportunidades para aplicar minhas competências, aprender com profissionais experientes e contribuir para soluções inovadoras.
+
+
+
 
 ---
 
@@ -29,11 +36,11 @@ Breve descrição sobre você. Fale sobre sua trajetória, interesses e objetivo
 ---
 
 ## 🔧 Habilidades  
-✅ **Análise de Dados:** Power BI, SQL, Excel Avançado  
-✅ **Front-end:** HTML, CSS, JavaScript, React  
-✅ **Back-end:** Node.js, Flask  
-✅ **Banco de Dados:** PostgreSQL, MongoDB  
-✅ **DevOps:** Docker, AWS, GitHub Actions  
+✅ **Análise de Dados:** Power BI, SQL, Excel Intermediário  
+✅ **Front-end:** HTML, CSS, JavaScript  
+✅ **Back-end:** Python  
+✅ **Banco de Dados:** PostgreSQL, SQLite  
+✅ **DevOps:** Docker  
   
 
 ---
