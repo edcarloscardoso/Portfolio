@@ -19,21 +19,21 @@ Breve descrição sobre você. Fale sobre sua trajetória, interesses e objetivo
 ---
 
 ## 📌 O que estou estudando  
-🎯 **Linguagens:** JavaScript, Python, C#  
-📚 **Curso Técnico:** Desenvolvimento de Sistemas | Senai (2023 - 2025)  
+🎯 **Linguagens:** Python, SQL, JavaScript, Python, HTML, CSS    
+📚 **Curso Técnico:** Informática para Internet | Instituto Federal do Sul de Minas (2024 - 2025)  
 📖 **Cursos Livres:**  
-- Desenvolvimento Web Full Stack - [Rocketseat](https://www.rocketseat.com.br/)  
+- Engenharia de Dados com Python - [DIO](https://www.dio.me/certificate/YL5MEBUY/share)  
 - Algoritmos e Estruturas de Dados - [Alura](https://www.alura.com.br/)  
 - Fundamentos de Cloud Computing - [DIO](https://www.dio.me/)  
 
 ---
 
 ## 🔧 Habilidades  
-✅ **Análise de Dados:** Power BI, SQL, Excel Avançado  
-✅ **Front-end:** HTML, CSS, JavaScript, React  
-✅ **Back-end:** Node.js, Flask  
-✅ **Banco de Dados:** PostgreSQL, MongoDB  
-✅ **DevOps:** Docker, AWS, GitHub Actions  
+✅ **Análise de Dados:** Power BI, SQL, Excel Intermediário  
+✅ **Front-end:** HTML, CSS, JavaScript   
+✅ **Back-end:** Python    
+✅ **Banco de Dados:** PostgreSQL, SQLite  
+✅ **DevOps:** Docker  
   
 
 ---
