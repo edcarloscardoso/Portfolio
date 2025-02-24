@@ -30,7 +30,7 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 📚 **Curso Técnico:** Desenvolvimento de Sistemas | Senai (2023 - 2025)  
 📖 **Cursos Livres:**  
 - Engenharia de Dados com Python - [DIO](https://www.dio.me/certificate/YL5MEBUY/share)  
-- Algoritmos e Estruturas de Dados - [Alura](https://www.alura.com.br/)  
+- Mini curso SQL - [Xperiun](https://app.xperiun.com/certificado/ac9va579zvnw88k43ct8)  
 - Fundamentos de Cloud Computing - [DIO](https://www.dio.me/)  
 
 ---
