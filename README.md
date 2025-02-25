@@ -8,8 +8,8 @@
 
 ## 📞 Contato  
 📧 **Email:** edcarlos.cfarias@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/edcarlos-card%C3%B4so-de-farias-2240b1a7/)  
-🚀 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuari)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/edcarlos-card%C3%B4so-de-farias-2240b1a7/](https://www.linkedin.com/in/edcarlos-card%C3%B4so-de-farias-2240b1a7/)  
+🚀 **GitHub:** [https://github.com/edcarlos12](https://github.com/edcarlos12)  
 
 ---
 
