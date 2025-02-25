@@ -26,8 +26,8 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 ---
 
 ## 📌 O que estou estudando  
-🎯 **Linguagens:** JavaScript, Python, C#  
-📚 **Curso Técnico:** Desenvolvimento de Sistemas | Senai (2023 - 2025)  
+🎯 **Linguagens:** Python, SQL , HTML, JavaScript, CSS
+📚 **Curso Técnico:** Informática para Internet | Instituto Federal do Sul de Minas  (2023 - 2025)  
 📖 **Cursos Livres:**  
 - Engenharia de Dados com Python - [DIO](https://www.dio.me/certificate/YL5MEBUY/share)  
 - Mini curso SQL - [Xperiun](https://app.xperiun.com/certificado/ac9va579zvnw88k43ct8)  
@@ -59,11 +59,19 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 
 ## 💼 Experiência  
 
-### **Empresa X** - Desenvolvedor Full Stack *(2023 - Presente)*  
-🔹 Desenvolvimento de APIs em Node.js e integração com bancos de dados SQL e NoSQL.  
-🔹 Desenvolvimento de interfaces responsivas com React e Tailwind CSS.  
+### **JBS – Ituiutaba - MG** (Julho de 2021 – Agosto 2024)
+Cargo: Técnico em Garantia da qualidade 
 
-### **Empresa Y** - Estagiário de Desenvolvimento *(2022 - 2023)*  
-🔹 Auxílio na criação de dashboards e automação de tarefas com Python.  
-🔹 Manutenção e refatoração de código legado.  
+
+### **SBM Comercial Trading LTDA - BA** (Maio de 2019 - Fevereiro de 2020)
+Cargo: Consultor Ambiental 
+
+
+### **Prefeitura Municipal da Barra de São Miguel – SEMVMA – AL** (Setembro de 2018 - Abril de 2019)
+Cargo: Assessor Técnico 
+
+ 
+### **Suécia Veículos / Volvo Caminhões – MG** (Outubro de 2017 - Agosto de 2018 )
+Cargo: Assistente Administrativa 
+
 
