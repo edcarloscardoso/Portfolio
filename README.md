@@ -26,7 +26,7 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 ---
 
 ## 📌 O que estou estudando  
-🎯 **Linguagens:** Python, SQL , HTML, JavaScript, CSS
+🎯 **Linguagens:** Python, SQL , HTML, JavaScript, CSS  
 📚 **Curso Técnico:** Informática para Internet | Instituto Federal do Sul de Minas  (2023 - 2025)  
 📖 **Cursos Livres:**  
 - Engenharia de Dados com Python - [DIO](https://www.dio.me/certificate/YL5MEBUY/share)  
