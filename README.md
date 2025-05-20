@@ -46,7 +46,7 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 ✅ **Back-end:** Python  
 ✅ **Banco de Dados:** PostgreSQL, SQLite  
 ✅ **DevOps:** Docker  
-  
+✅ **Cloud:** Azure  
 
 ---
 
