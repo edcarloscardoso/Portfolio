@@ -29,9 +29,14 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 🎯 **Linguagens:** Python, SQL , HTML, JavaScript, CSS  
 📚 **Curso Técnico:** Informática para Internet | Instituto Federal do Sul de Minas  (2023 - 2025)  
 📖 **Cursos Livres:**  
-- Engenharia de Dados com Python - [DIO](https://www.dio.me/certificate/YL5MEBUY/share)  
-- Mini curso SQL - [Xperiun](https://app.xperiun.com/certificado/ac9va579zvnw88k43ct8)  
-- Fundamentos de Cloud Computing - [DIO](https://www.dio.me/)  
+🎯 Analista de Dados – Instituto Joga Junto – Em andamento (170h)  
+🐍 Análise de Dados com Python – TIC em Trilhas / MCTI (24h)  
+🛠️ Engenharia de Dados com Python – NTT DATA (91h)  
+💻 Informática Avançada – ESCOLEGIS (40h)  
+🧰 Informática Intermediária – ESCOLEGIS (40h)  
+📊 Planilhas Eletrônicas – IFSUL (40h)  
+👥 Gestão de Pessoas – SENAI (60h)  
+🚀 Supervisor Inovador – SENAI (180h)  
 
 ---
 
@@ -47,15 +52,25 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 
 ## 🏆 Projetos  
 
-### 📊 [Dashboard Financeiro - Power BI](https://github.com/seu-usuario/powerbi-dashboard-financeiro)  
-📌 **Descrição:** Dashboard interativo para análise de receitas, despesas e lucro.  
-🔧 **Tecnologias:** Power BI, SQL, Excel  
+📦 [Projeto: Pipeline de Dados – Comércio Exterior do Brasil](https://github.com/edcarloscardoso/Data-Analytics-Comercio-Exterior)
 
-### 📊 [Análise de Vendas - Power BI](https://github.com/seu-usuario/powerbi-vendas)  
-📌 **Descrição:** Painel para monitoramento de desempenho de vendas e KPIs comerciais.  
-🔧 **Tecnologias:** Power BI, DAX, SQL Server  
+Descrição:
 
----
+Desenvolvi uma solução completa de tratamento e organização de dados de exportação e importação do Brasil, com base na Arquitetura de Medalhão (Medallion Architecture), estruturando os dados em camadas landing, raw, silver e gold, o que garante qualidade, integridade e rastreabilidade dos dados ao longo do pipeline.
+
+Tecnologias e Ferramentas Utilizadas:
+
+Linguagem: Python
+Bibliotecas: pandas, os, requests, psycopg2, SQLAlchemy
+Banco de Dados: PostgreSQL (via Docker)
+Visualização de Dados: Power BI e Metabase
+Orquestração e Integração: Scripts Python integrando extração, transformação e carga (ETL)
+Destaques do Projeto:
+Pipeline automatizado de ingestão de dados públicos de comércio exterior.
+Estrutura robusta com controle de qualidade de dados em múltiplas camadas.
+Integração com PostgreSQL e Metabase, ambos containerizados via Docker, para facilitar a análise e distribuição dos dados.
+Criação de dashboards no Power BI com insights sobre importação e exportação brasileira.
+
 
 ## 💼 Experiência  
 
