@@ -58,18 +58,18 @@ Descrição:
 
 Desenvolvi uma solução completa de tratamento e organização de dados de exportação e importação do Brasil, com base na Arquitetura de Medalhão (Medallion Architecture), estruturando os dados em camadas landing, raw, silver e gold, o que garante qualidade, integridade e rastreabilidade dos dados ao longo do pipeline.
 
-Tecnologias e Ferramentas Utilizadas:
+Tecnologias e Ferramentas Utilizadas:  
 
-Linguagem: Python
-Bibliotecas: pandas, os, requests, psycopg2, SQLAlchemy
-Banco de Dados: PostgreSQL (via Docker)
-Visualização de Dados: Power BI e Metabase
-Orquestração e Integração: Scripts Python integrando extração, transformação e carga (ETL)
-Destaques do Projeto:
-Pipeline automatizado de ingestão de dados públicos de comércio exterior.
-Estrutura robusta com controle de qualidade de dados em múltiplas camadas.
-Integração com PostgreSQL e Metabase, ambos containerizados via Docker, para facilitar a análise e distribuição dos dados.
-Criação de dashboards no Power BI com insights sobre importação e exportação brasileira.
+Linguagem: Python  
+Bibliotecas: pandas, os, requests, psycopg2, SQLAlchemy  
+Banco de Dados: PostgreSQL (via Docker)  
+Visualização de Dados: Power BI e Metabase  
+Orquestração e Integração: Scripts Python integrando extração, transformação e carga (ETL)  
+Destaques do Projeto:  
+Pipeline automatizado de ingestão de dados públicos de comércio exterior.  
+Estrutura robusta com controle de qualidade de dados em múltiplas camadas.  
+Integração com PostgreSQL e Metabase, ambos containerizados via Docker, para facilitar a análise e distribuição dos dados.  
+Criação de dashboards no Power BI com insights sobre importação e exportação brasileira.  
 
 
 ## 💼 Experiência  
