@@ -30,6 +30,7 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 📚 **Curso Técnico:** Informática para Internet | Instituto Federal do Sul de Minas  (2023 - 2025)  
 📖 **Cursos Livres:**  
 🎯 Analista de Dados – Instituto Joga Junto – Em andamento (170h)  
+☁️ Microsoft 50 Anos - Computação em Nuvem com Azure (15h)  
 🐍 Análise de Dados com Python – TIC em Trilhas / MCTI (24h)  
 🛠️ Engenharia de Dados com Python – NTT DATA (91h)  
 💻 Informática Avançada – ESCOLEGIS (40h)  
