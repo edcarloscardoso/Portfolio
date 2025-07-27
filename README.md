@@ -29,7 +29,7 @@ Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvol
 🎯 **Linguagens:** Python, SQL , HTML, JavaScript, CSS  
 📚 **Curso Técnico:** Informática para Internet | Instituto Federal do Sul de Minas  (2023 - 2025)  
 📖 **Cursos Livres:**  
-🎯 Analista de Dados – Instituto Joga Junto – Em andamento (170h)  
+🎯 Analista de Dados – Instituto Joga Junto – Concluído (170h)  
 ☁️ Microsoft 50 Anos - Computação em Nuvem com Azure (15h)  
 🐍 Análise de Dados com Python – TIC em Trilhas / MCTI (24h)  
 🛠️ Engenharia de Dados com Python – NTT DATA (91h)  
@@ -74,6 +74,15 @@ Criação de dashboards no Power BI com insights sobre importação e exportaç�
 
 
 ## 💼 Experiência  
+
+### **Mesha Tecnologia - Maceió – Híbrido (Julho 2025 - Atual)**
+**Cargo:** Engenheiro de Dados Trainee  
+**Atividades:**
+- Atuação prática em projetos de arquitetura Lakehouse com foco em pipelines de dados confiáveis e escaláveis.
+- Desenvolvimento de DAGs com Apache Airflow usando Papermill para execução de notebooks por camadas.
+- Tratamento de dados públicos com Apache Spark, Delta Lake e persistência em MinIO.
+- Integração local com Docker para simular ambiente de produção em pipeline de dados.
+
 
 ### **JBS – Ituiutaba - MG** (Julho de 2021 – Agosto 2024)
 Cargo: Técnico em Garantia da qualidade 
