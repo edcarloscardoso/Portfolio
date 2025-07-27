@@ -14,13 +14,13 @@
 ---
 
 ## 🚀 Sobre mim  
-Com experiência nas áreas de meio ambiente, administração e garantia da qualidade, desenvolvi habilidades analíticas, organizacionais e de resolução de problemas, que agora aplico na minha transição para a área de tecnologia. Sempre fui apaixonado por inovação e tecnologia, o que me levou a aprofundar meus estudos em desenvolvimento de software, análise de dados e ferramentas digitais.
+Sou Engenheiro de Dados em início de carreira, com experiências anteriores nas áreas de meio ambiente, administração e garantia da qualidade. Essas vivências fortaleceram minhas habilidades analíticas, organizacionais e de resolução de problemas — competências que aplico hoje no desenvolvimento de soluções em dados.
 
-Meu inglês intermediário tem sido um grande aliado nesse processo, permitindo que eu consuma conteúdos técnicos diretamente da fonte, participe de comunidades internacionais e esteja sempre atualizado com as últimas tendências do setor.
+Minha paixão por tecnologia e inovação me levou a aprofundar meus conhecimentos em análise e engenharia de dados, com foco em pipelines de dados, arquitetura Lakehouse e automação de processos de ingestão, transformação e armazenamento.
 
-Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvolvendo projetos práticos para consolidar meus conhecimentos. Busco oportunidades para aplicar minhas competências, aprender com profissionais experientes e contribuir para soluções inovadoras.
+Atualmente, atuo em projetos práticos com Python, PySpark, Airflow, Delta Lake e MinIO, organizando os dados em camadas (landing, bronze, silver e gold) e orquestrando fluxos automatizados com notebooks parametrizados em ambientes containerizados via Docker.
 
-
+Tenho inglês intermediário, o que me permite acompanhar conteúdos técnicos internacionais e me manter atualizado com as principais ferramentas e tendências do setor. Sigo me aprimorando constantemente, buscando aplicar o conhecimento com propósito, colaborar em times multidisciplinares e construir soluções escaláveis com impacto real.
 
 
 ---
